@@ -270,7 +270,7 @@ a:focus {
   top: 0;
   left: 0;
   background-color: black;
-  background-color: rgba(10, 32, 80, 0.95);
+  background-color: rgba(73, 24, 17, 0.95);
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -366,17 +366,17 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 10px 0px;
-  background-color: #0a2050;
+  background-color: #491811;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #0a2050;
+  border: 1px solid #491811;
   border-radius: 0;
 }
 
 .slider_section .detail-box .btn-box .btn-1:hover {
   background-color: transparent;
-  color: #0a2050;
+  color: #491811;
 }
 
 .slider_section .detail-box .btn-box .btn-2 {
@@ -786,8 +786,8 @@ a:focus {
 }
 
 .food_section {
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(60%, #0a2050), color-stop(60%, transparent));
-  background: linear-gradient(to bottom, #0a2050 60%, transparent 60%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(60%, #491811), color-stop(60%, transparent));
+  background: linear-gradient(to bottom, #491811 60%, transparent 60%);
 }
 
 .food_section .heading_container {
@@ -844,24 +844,24 @@ a:focus {
 }
 
 .food_section .food_container .box .detail-box h3 span {
-  color: #0a2050;
+  color: #491811;
 }
 
 .food_section .food_container .box .detail-box a {
   display: inline-block;
   padding: 8px 45px;
-  background-color: #0a2050;
+  background-color: #491811;
   color: #491811;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #0a2050;
+  border: 1px solid #491811;
   border-radius: 0;
   margin-top: 15px;
 }
 
 .food_section .food_container .box .detail-box a:hover {
   background-color: transparent;
-  color: #0a2050;
+  color: #491811;
 }
 
 .client_section {
@@ -1011,7 +1011,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #0a2050;
+  background-color: #491811;
   color: #ffffff;
   padding: 40px 0 75px 0;
   font-family: "Open Sans",
@@ -1051,7 +1051,7 @@ a:focus {
   display: inline-block;
   padding: 4px 45px;
   background-color: #491811;
-  color: #0a2050;
+  color: #491811;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: 1px solid #491811;
